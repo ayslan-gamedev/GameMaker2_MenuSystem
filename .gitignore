@@ -1,0 +1,7 @@
+# commitzen config 
+/node_modules/
+.czrc
+.cz-config.js 
+package.json
+package-lock.json
+cz-config.js
